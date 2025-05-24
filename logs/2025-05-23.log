@@ -1,0 +1,290 @@
+[2025-05-23T16:24:31.362Z] [INFO] Command: /start | User: mort_art | Chat: 1292645155
+[2025-05-23T16:25:28.468Z] [INFO] Command: /help | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T16:25:34.979Z] [INFO] Command: /rules | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T16:26:20.210Z] [INFO] Command: /info | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T16:29:06.974Z] [INFO] Command: /all | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T16:35:37.880Z] [INFO] Command: /rules | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T16:35:48.579Z] [INFO] Command: /info | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T16:38:42.910Z] [INFO] Command: /rules | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T16:39:51.006Z] [INFO] Command: /info | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T16:40:07.429Z] [INFO] Command: /all | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T16:42:35.377Z] [INFO] New member joined: mportg
+[2025-05-23T16:42:57.400Z] [INFO] Command: /all | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T16:43:02.170Z] [INFO] Command: /rules | User: Rauw537 | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T16:43:35.242Z] [INFO] Command: /all | User: Rauw537 | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T16:45:27.892Z] [INFO] Command: /all | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T16:48:06.974Z] [INFO] Command: /all | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T16:48:07.531Z] [ERROR] Не удалось получить данные участников: 400: Bad Request: text must be non-empty | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T16:51:32.053Z] [INFO] Command: /all | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T16:58:45.219Z] [INFO] Command: /all | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T17:01:36.311Z] [INFO] Command: /all | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T17:01:58.426Z] [INFO] Command: /all | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T17:02:37.427Z] [INFO] Command: /all | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T17:02:44.995Z] [INFO] Command: /all | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T17:18:30.257Z] [ERROR] Не удалось найти пользователя: 400: Bad Request: invalid user_id specified
+[2025-05-23T17:19:02.355Z] [ERROR] Не удалось найти пользователя: 400: Bad Request: invalid user_id specified
+[2025-05-23T17:21:14.144Z] [ERROR] Ошибка при поиске пользователя: groupUsers is not defined | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T17:21:43.177Z] [ERROR] Ошибка при поиске пользователя: groupUsers is not defined | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T17:22:02.651Z] [INFO] Command: /addname какаха | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T17:22:05.291Z] [INFO] Command: /names | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T17:22:36.855Z] [INFO] Command: /addname гей | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T17:22:45.262Z] [INFO] Command: /names | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T17:31:01.190Z] [ERROR] Не удалось найти пользователя по ID: 400: Bad Request: PARTICIPANT_ID_INVALID
+[2025-05-23T17:38:07.886Z] [INFO] Command: /info | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T17:38:08.136Z] [INFO] Command: /help | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T17:38:08.194Z] [INFO] Command: /names | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T17:42:52.942Z] [INFO] Command: /info | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T17:43:05.068Z] [INFO] Command: /help | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T17:43:15.877Z] [INFO] Command: /names | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T17:43:23.873Z] [INFO] Command: /rules | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T17:57:34.579Z] [INFO] Command: /help | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T18:01:12.994Z] [INFO] Command: /mute @mportg 5min | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T18:03:11.582Z] [ERROR] Error: 400: Bad Request: can't remove chat owner
+    at Telegram.callApi (/home/runner/workspace/node_modules/telegraf/lib/core/network/client.js:315:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.muteUser (/home/runner/workspace/handlers/commands.js:251:7)
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T18:03:45.111Z] [ERROR] Error: 400: Bad Request: user is an administrator of the chat
+    at Telegram.callApi (/home/runner/workspace/node_modules/telegraf/lib/core/network/client.js:315:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.muteUser (/home/runner/workspace/handlers/commands.js:251:7)
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T18:03:57.374Z] [INFO] Command: /names | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T18:04:09.905Z] [INFO] Command: /help | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T18:04:31.978Z] [INFO] Command: /info | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T18:04:46.866Z] [ERROR] TypeError: commandHandlers.kickUser is not a function
+    at /home/runner/workspace/index.js:93:46
+    at /home/runner/workspace/node_modules/telegraf/lib/composer.js:397:28
+    at /home/runner/workspace/node_modules/telegraf/lib/composer.js:165:111
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21 | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T18:36:07.907Z] [INFO] Command: /mute 658796602 1min | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T18:36:30.197Z] [ERROR] TypeError: ctx.getChatMembers is not a function
+    at resolveUser (/home/runner/workspace/handlers/commands.js:74:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.unmuteUser (/home/runner/workspace/handlers/commands.js:200:22)
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T18:36:40.559Z] [INFO] Command: /unmute 658796602 | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T18:37:06.628Z] [ERROR] TypeError: ctx.getChatMembers is not a function
+    at resolveUser (/home/runner/workspace/handlers/commands.js:74:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.kickUser (/home/runner/workspace/handlers/commands.js:259:22)
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T18:40:15.572Z] [ERROR] TypeError: ctx.getChatMembers is not a function
+    at resolveUser (/home/runner/workspace/handlers/commands.js:74:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.kickUser (/home/runner/workspace/handlers/commands.js:259:22)
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T18:47:47.747Z] [ERROR] TypeError: ctx.getChatMembers is not a function
+    at resolveUser (/home/runner/workspace/handlers/commands.js:64:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async kickUser (/home/runner/workspace/handlers/commands.js:266:22)
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T18:47:58.687Z] [ERROR] TypeError: ctx.getChatMembers is not a function
+    at resolveUser (/home/runner/workspace/handlers/commands.js:64:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async kickUser (/home/runner/workspace/handlers/commands.js:266:22)
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T18:48:12.853Z] [ERROR] Error: 400: Bad Request: can't remove chat owner
+    at Telegram.callApi (/home/runner/workspace/node_modules/telegraf/lib/core/network/client.js:315:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async muteUser (/home/runner/workspace/handlers/commands.js:165:7)
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T19:27:41.721Z] [INFO] Command: /help | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T19:27:49.661Z] [INFO] Command: /info | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T19:27:57.033Z] [INFO] Command: /help | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T19:28:10.238Z] [INFO] Command: /names | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T19:31:01.919Z] [INFO] Command: /rules | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T19:53:24.792Z] [INFO] Command: /rules | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T19:58:20.540Z] [INFO] Command: /mute mportg for 1 минут | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T19:59:07.376Z] [INFO] Command: /kick mportg (масс нарушение правил) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T19:59:07.644Z] [INFO] Member left: mportg
+[2025-05-23T19:59:37.256Z] [INFO] Command: /help | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T19:59:46.097Z] [INFO] Command: /names | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T19:59:53.829Z] [INFO] Command: /rules | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T20:01:05.564Z] [INFO] New member joined: pichiteee
+[2025-05-23T20:01:16.368Z] [ERROR] Error: 400: Bad Request: user is an administrator of the chat
+    at Telegram.callApi (/home/runner/workspace/node_modules/telegraf/lib/core/network/client.js:315:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.kickUser (/home/runner/workspace/handlers/commands.js:325:7)
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T20:13:01.260Z] [ERROR] SyntaxError: Unexpected token 'ㅤ', ..."s": [
+    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at showRules (/home/runner/workspace/handlers/commands.js:76:26)
+    at /home/runner/workspace/node_modules/telegraf/lib/composer.js:397:28
+    at /home/runner/workspace/node_modules/telegraf/lib/composer.js:165:111
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T20:13:12.530Z] [ERROR] SyntaxError: Unexpected token 'ㅤ', ..."s": [
+    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at showRules (/home/runner/workspace/handlers/commands.js:76:26)
+    at /home/runner/workspace/node_modules/telegraf/lib/composer.js:397:28
+    at /home/runner/workspace/node_modules/telegraf/lib/composer.js:165:111
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T20:13:42.996Z] [INFO] Command: /rules | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T20:14:50.483Z] [INFO] Command: /rules | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T20:19:51.403Z] [INFO] Blocked link from mort_art: https://chat.deepseek.com/a/chat/s/cc0f313e-2bbc-4e00-a90c-287881eb5fd0
+[2025-05-23T20:19:51.658Z] [ERROR] Error: 400: Bad Request: message to be replied not found
+    at Telegram.callApi (/home/runner/workspace/node_modules/telegraf/lib/core/network/client.js:315:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async module.exports (/home/runner/workspace/middlewares/linkFilter.js:54:11)
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T20:19:56.339Z] [INFO] Blocked link from mort_art: https://chat.deepseek.com/a/chat/s/cc0f313e-2bbc-4e00-a90c-287881eb5fd0
+[2025-05-23T20:19:56.590Z] [ERROR] Error: 400: Bad Request: message to be replied not found
+    at Telegram.callApi (/home/runner/workspace/node_modules/telegraf/lib/core/network/client.js:315:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async module.exports (/home/runner/workspace/middlewares/linkFilter.js:54:11)
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T20:37:20.755Z] [INFO] Command: /rules | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T20:41:15.564Z] [INFO] New member joined: Skizzzzzzi
+[2025-05-23T20:41:15.797Z] [INFO] Member left: Skizzzzzzi
+[2025-05-23T20:41:15.841Z] [INFO] Member left: pichiteee
+[2025-05-23T20:41:40.455Z] [ERROR] SyntaxError: Expected ',' or '}' after property value in JSON at position 773
+    at JSON.parse (<anonymous>)
+    at showInfo (/home/runner/workspace/handlers/commands.js:171:25)
+    at /home/runner/workspace/node_modules/telegraf/lib/composer.js:397:28
+    at /home/runner/workspace/node_modules/telegraf/lib/composer.js:165:111
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T20:42:05.316Z] [INFO] Command: /info | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T20:46:01.434Z] [INFO] New member joined: Олег
+[2025-05-23T20:47:01.170Z] [INFO] Member left: Олег
+[2025-05-23T20:53:48.619Z] [INFO] Command: /rules | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T20:54:22.313Z] [INFO] Command: /help | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T20:54:54.491Z] [INFO] Command: /names | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T20:54:59.895Z] [INFO] New member joined: SenyaVeseli
+[2025-05-23T20:56:03.965Z] [INFO] Command: /kick SenyaVeseli (без указания причины) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T20:56:04.233Z] [INFO] Member left: SenyaVeseli
+[2025-05-23T20:56:23.724Z] [INFO] New member joined: SenyaVeseli
+[2025-05-23T20:56:41.054Z] [INFO] Command: /kick SenyaVeseli (без указания причины) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T20:56:41.325Z] [INFO] Member left: SenyaVeseli
+[2025-05-23T20:57:58.400Z] [INFO] New member joined: SenyaVeseli
+[2025-05-23T20:58:39.222Z] [INFO] Command: /kick SenyaVeseli (без указания причины) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T20:58:39.511Z] [INFO] Member left: SenyaVeseli
+[2025-05-23T20:58:42.457Z] [INFO] New member joined: SenyaVeseli
+[2025-05-23T20:59:12.713Z] [INFO] Command: /kick SenyaVeseli (без указания причины) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T20:59:12.983Z] [INFO] Member left: SenyaVeseli
+[2025-05-23T20:59:18.935Z] [INFO] New member joined: SenyaVeseli
+[2025-05-23T21:00:27.770Z] [INFO] Command: /help | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T21:02:18.499Z] [INFO] Command: /rules | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T21:02:23.773Z] [INFO] Command: /help | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T21:11:05.415Z] [INFO] Command: /info | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T21:21:28.401Z] [INFO] Command: /info | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T21:21:51.231Z] [INFO] Command: /help | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T21:27:29.125Z] [INFO] Command: /info | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T21:42:04.816Z] [INFO] Command: /discord | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T21:42:19.136Z] [INFO] Command: /discord | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T21:43:32.266Z] [INFO] Command: /info | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T22:08:44.916Z] [INFO] Command: /start | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T22:08:45.130Z] [INFO] Command: /help | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T22:08:45.156Z] [INFO] Command: /help | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T22:09:12.446Z] [INFO] Command: /discord | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T22:09:48.939Z] [INFO] Command: /discord | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T22:21:51.222Z] [INFO] Command: /tagall (0 участников) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T22:51:56.837Z] [INFO] Command: /help | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T22:54:50.418Z] [INFO] Command: /help | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T22:54:58.064Z] [INFO] Command: /help | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T23:06:52.599Z] [INFO] Command: /help | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T23:40:59.951Z] [INFO] Command: /discord | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T23:41:06.252Z] [INFO] Command: /info | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T23:41:17.873Z] [INFO] Command: /help | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T23:41:21.206Z] [INFO] Command: /rules | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T23:41:26.017Z] [INFO] Command: /names | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
+[2025-05-23T23:41:49.878Z] [INFO] Blocked link from mort_art: https://replit.com/@dronka4tr/TelegramChatBot#handlers/commands.js
+[2025-05-23T23:41:50.132Z] [ERROR] Error: 400: Bad Request: message to be replied not found
+    at Telegram.callApi (/home/runner/workspace/node_modules/telegraf/lib/core/network/client.js:315:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async module.exports (/home/runner/workspace/middlewares/linkFilter.js:54:11)
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17)
+    at async /home/runner/workspace/node_modules/telegraf/lib/composer.js:519:21
+    at async execute (/home/runner/workspace/node_modules/telegraf/lib/composer.js:518:17) | User: mort_art | Chat: Группа для интима с бобром и бота тройничок
